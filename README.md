@@ -96,7 +96,7 @@ Package: mysql-connector-python
 
 ### 📝 Add New Donor  
 <p align="center">
-  <img src="screenshots/adddonor.jpeg" alt="Add Donor" width="700">
+  <img src="screenshots/adddonor.jpg" alt="Add Donor" width="400" height="700">
 </p>
 
 ---
@@ -134,4 +134,5 @@ Kanishka Dinesh Wani
 ⭐ Star this repo if you find it useful! ⭐
 
 </div>
+
 
